@@ -1,2 +1,2 @@
-# c++-programs
+# c++ programs
 OOP,CG
